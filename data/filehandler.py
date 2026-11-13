@@ -11,7 +11,7 @@ from typing import Dict, Any
 new_user = {
     "id": 4,  # Egyedi felhasználó azonosító
     "name": "Szilvás Szabolcs",
-    "email": "szabolcs@plumworld.com"
+    "email": "szabolcs@example.com"
 }
 
 Felhasználó hozzáadása a JSON fájlhoz:

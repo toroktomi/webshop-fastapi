@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Banános Joe",
-      "email": "bjoe@redneckcity.com"
+      "email": "joe@example.com"
     },
     {
       "id": 2,
       "name": "Almás Anna",
-      "email": "anna@fruitworld.com"
+      "email": "anna@example.com"
     },
     {
       "id": 3,
       "name": "Körtés Károly",
-      "email": "karoly@pearparadise.com"
+      "email": "karoly@example.com"
     },
     {
       "id": 0,
